@@ -23,6 +23,30 @@
       "cat": "GOLD",
       "price": "295.00",
       "status": "3"
+    },
+    "AMBH|107805|20260326|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "02:35 PM",
+      "date": "20260326",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|107805|20260326|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "02:35 PM",
+      "date": "20260326",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|107805|20260326|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "02:35 PM",
+      "date": "20260326",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
     }
   },
   "dates": {
