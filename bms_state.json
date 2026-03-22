@@ -47,11 +47,35 @@
       "cat": "GOLD",
       "price": "295.00",
       "status": "3"
+    },
+    "PRHN|248050|20260327|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "12:20 PM",
+      "date": "20260327",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|248052|20260327|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "07:50 PM",
+      "date": "20260327",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|248053|20260327|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:00 PM",
+      "date": "20260327",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260326": "BOOKABLE",
-    "20260327": "AVAILABLE",
+    "20260326": "AVAILABLE",
+    "20260327": "BOOKABLE",
     "20260328": "AVAILABLE",
     "20260329": "AVAILABLE",
     "20260330": "NOT_OPEN",
