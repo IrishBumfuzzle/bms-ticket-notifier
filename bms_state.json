@@ -88,6 +88,22 @@
       "price": "295.00",
       "status": "3"
     },
+    "IGMH|79552|20260326|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "07:10 PM",
+      "date": "20260326",
+      "cat": "ROYAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "IGMH|79552|20260326|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "07:10 PM",
+      "date": "20260326",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "INHY|129661|20260326|Royal": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
       "time": "04:15 PM",
@@ -115,6 +131,22 @@
     "INHY|129663|20260326|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
       "time": "10:50 PM",
+      "date": "20260326",
+      "cat": "Executive",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ISTN|50868|20260326|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "07:10 PM",
+      "date": "20260326",
+      "cat": "Royal",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ISTN|50868|20260326|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "07:10 PM",
       "date": "20260326",
       "cat": "Executive",
       "price": "295.00",
