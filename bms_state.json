@@ -38,7 +38,7 @@
       "date": "20260326",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|107888|20260326|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -94,13 +94,29 @@
       "date": "20260326",
       "cat": "ROYAL",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "IGMH|79552|20260326|EXECUTIVE": {
       "venue": "INOX: GSM Mall, Hyderabad",
       "time": "07:10 PM",
       "date": "20260326",
       "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ISTN|50868|20260326|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "07:10 PM",
+      "date": "20260326",
+      "cat": "Royal",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ISTN|50868|20260326|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "07:10 PM",
+      "date": "20260326",
+      "cat": "Executive",
       "price": "295.00",
       "status": "3"
     },
@@ -136,20 +152,28 @@
       "price": "295.00",
       "status": "3"
     },
-    "ISTN|50868|20260326|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "07:10 PM",
+    "IOMH|2138|20260326|RECLINER ROWS": {
+      "venue": "INOX: Odeon Mall, Hyderabad",
+      "time": "04:35 PM",
       "date": "20260326",
-      "cat": "Royal",
+      "cat": "RECLINER ROWS",
       "price": "350.00",
       "status": "3"
     },
-    "ISTN|50868|20260326|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "07:10 PM",
+    "IOMH|2138|20260326|PRIME ROWS": {
+      "venue": "INOX: Odeon Mall, Hyderabad",
+      "time": "04:35 PM",
       "date": "20260326",
-      "cat": "Executive",
+      "cat": "PRIME ROWS",
       "price": "295.00",
+      "status": "3"
+    },
+    "IOMH|2138|20260326|CLASSIC ROWS": {
+      "venue": "INOX: Odeon Mall, Hyderabad",
+      "time": "04:35 PM",
+      "date": "20260326",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
       "status": "3"
     },
     "AMBH|107849|20260327|PLATINUM": {
