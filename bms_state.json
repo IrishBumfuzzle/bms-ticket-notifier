@@ -88,6 +88,38 @@
       "price": "295.00",
       "status": "3"
     },
+    "INHY|129661|20260326|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "04:15 PM",
+      "date": "20260326",
+      "cat": "Royal",
+      "price": "350.00",
+      "status": "2"
+    },
+    "INHY|129661|20260326|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "04:15 PM",
+      "date": "20260326",
+      "cat": "Executive",
+      "price": "295.00",
+      "status": "3"
+    },
+    "INHY|129663|20260326|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "10:50 PM",
+      "date": "20260326",
+      "cat": "Royal",
+      "price": "350.00",
+      "status": "2"
+    },
+    "INHY|129663|20260326|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "10:50 PM",
+      "date": "20260326",
+      "cat": "Executive",
+      "price": "295.00",
+      "status": "3"
+    },
     "AMBH|107849|20260327|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "07:10 PM",
@@ -118,7 +150,7 @@
       "date": "20260327",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PRHN|248052|20260327|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
