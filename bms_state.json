@@ -1,13 +1,149 @@
 {
-  "shows": {},
+  "shows": {
+    "ALUC|3417|20260809|3D PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "01:15 PM",
+      "date": "20260809",
+      "cat": "3D PLATINUM",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3417|20260809|3D GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "01:15 PM",
+      "date": "20260809",
+      "cat": "3D GOLD",
+      "price": "395.00",
+      "status": "1"
+    },
+    "ALUC|3417|20260809|3D DIRECTOR CHOICE": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "01:15 PM",
+      "date": "20260809",
+      "cat": "3D DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3417|20260809|3D GOLD.": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "01:15 PM",
+      "date": "20260809",
+      "cat": "3D GOLD.",
+      "price": "395.00",
+      "status": "3"
+    },
+    "ALUC|3418|20260809|3D PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "04:30 PM",
+      "date": "20260809",
+      "cat": "3D PLATINUM",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3418|20260809|3D GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "04:30 PM",
+      "date": "20260809",
+      "cat": "3D GOLD",
+      "price": "395.00",
+      "status": "1"
+    },
+    "ALUC|3418|20260809|3D DIRECTOR CHOICE": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "04:30 PM",
+      "date": "20260809",
+      "cat": "3D DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3418|20260809|3D GOLD.": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "04:30 PM",
+      "date": "20260809",
+      "cat": "3D GOLD.",
+      "price": "395.00",
+      "status": "3"
+    },
+    "ALUC|3419|20260809|3D PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:45 PM",
+      "date": "20260809",
+      "cat": "3D PLATINUM",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3419|20260809|3D GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:45 PM",
+      "date": "20260809",
+      "cat": "3D GOLD",
+      "price": "395.00",
+      "status": "2"
+    },
+    "ALUC|3419|20260809|3D DIRECTOR CHOICE": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:45 PM",
+      "date": "20260809",
+      "cat": "3D DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3419|20260809|3D GOLD.": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "07:45 PM",
+      "date": "20260809",
+      "cat": "3D GOLD.",
+      "price": "395.00",
+      "status": "3"
+    },
+    "ALUC|3420|20260809|3D PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:00 PM",
+      "date": "20260809",
+      "cat": "3D PLATINUM",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3420|20260809|3D GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:00 PM",
+      "date": "20260809",
+      "cat": "3D GOLD",
+      "price": "395.00",
+      "status": "2"
+    },
+    "ALUC|3420|20260809|3D DIRECTOR CHOICE": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:00 PM",
+      "date": "20260809",
+      "cat": "3D DIRECTOR CHOICE",
+      "price": "450.00",
+      "status": "0"
+    },
+    "ALUC|3420|20260809|3D GOLD.": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "11:00 PM",
+      "date": "20260809",
+      "cat": "3D GOLD.",
+      "price": "395.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260730": "BOOKABLE",
+    "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
     "20260801": "AVAILABLE",
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
-    "20260806": "AVAILABLE"
+    "20260806": "AVAILABLE",
+    "20260807": "AVAILABLE",
+    "20260808": "AVAILABLE",
+    "20260809": "BOOKABLE",
+    "20260810": "AVAILABLE",
+    "20260811": "AVAILABLE",
+    "20260812": "AVAILABLE",
+    "20260813": "AVAILABLE"
   }
 }
